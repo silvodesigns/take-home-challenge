@@ -1,4 +1,4 @@
-#Coding Challenge Prompt
+# Coding Challenge Prompt
 
 You will be developing a one-page web application that receives JSON data and renders the data into the DOM. You will be using the following API: https://jsonplaceholder.typicode.com/
 
